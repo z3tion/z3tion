@@ -1,16 +1,38 @@
+
+```
+                                ██████████  ████████    ██████████  ██████    ██████    ██      ██                      
+                                ██████████  ████████    ██████████  ██████    ██████    ██      ██                      
+                                      ██            ██      ██        ██    ██      ██  ████    ██                      
+                                      ██            ██      ██        ██    ██      ██  ████    ██                      
+            ████████  ████████      ██        ██████        ██        ██    ██      ██  ██  ██  ██  ████████  ████████  
+            ████████  ████████      ██        ██████        ██        ██    ██      ██  ██  ██  ██  ████████  ████████  
+                                  ██                ██      ██        ██    ██      ██  ██    ████                      
+                                  ██                ██      ██        ██    ██      ██  ██    ████                      
+                                ██████████  ████████        ██      ██████    ██████    ██      ██                      
+                                ██████████  ████████        ██      ██████    ██████    ██      ██                      
+```
+
 ## Hi there 👋
+I’m a beginner developer.
+## 🚀 About me
+I’m studying programming, creating my own projects, and constantly developing my skills. In the future, I plan to become a full-stack developer.
 
-<!--
-**z3tion/z3tion** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🛠️ My tech & skills
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=py,cs,html,css"/>
+  </a>
+</p>
 
-Here are some ideas to get you started:
+## 🖋️ My favorite IDE or code editor
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=vscode,pycharm,visualstudio"/>
+  </a>
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 💡 Currently learning
+[![My Skills](https://skillicons.dev/icons?i=cs,git)](https://skillicons.dev)
+
+## 📆 Future learning
+[![My Skills](https://skillicons.dev/icons?i=js,react,electron,dart,flutter)](https://skillicons.dev)
